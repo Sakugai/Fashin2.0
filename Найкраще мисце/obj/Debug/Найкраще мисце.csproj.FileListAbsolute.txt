@@ -1,0 +1,19 @@
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\bin\Debug\Найкраще мисце.exe.config
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\bin\Debug\Найкраще мисце.exe
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\bin\Debug\Найкраще мисце.pdb
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце_MarkupCompile.cache
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце_MarkupCompile.lref
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.g.resources
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще_мисце.Properties.Resources.resources
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.exe
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Найкраще мисце.pdb
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\App.baml
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Resourse\Fashin.baml
+C:\Users\annak\source\repos\Найкраще мисце\Найкраще мисце\obj\Debug\Resourse\Fashin2.baml

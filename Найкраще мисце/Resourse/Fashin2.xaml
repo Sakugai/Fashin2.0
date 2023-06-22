@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Brush x:Key="Grid">#e7c6ff</Brush>
+    <Brush x:Key="Back">#bbd0ff</Brush>
+    <Brush x:Key="Button">#b8c0ff</Brush>
+    <Brush x:Key="Text">#4a4e69</Brush>
+    <Brush x:Key="TextBlock">#e7c6ff</Brush>
+</ResourceDictionary>

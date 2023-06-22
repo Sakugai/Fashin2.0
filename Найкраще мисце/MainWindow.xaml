@@ -1,0 +1,66 @@
+﻿<Window x:Class="Найкраще_мисце.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Найкраще_мисце"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="{DynamicResource Back}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid x:Name="Grid"
+                  Background="{DynamicResource Grid}"/>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Введите что-то"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontSize="20"
+                       Foreground="{DynamicResource Text}"/>
+
+            <TextBox x:Name="tb_one" 
+                     Grid.Row="1"
+                     Margin="15"
+                     Background="{DynamicResource TextBlock}"/>
+
+            <TextBlock Grid.Row="2" 
+                       Text="Введите что-то"
+                       VerticalAlignment="Center" 
+                       HorizontalAlignment="Center" 
+                       FontSize="20"
+                       Foreground="{DynamicResource Text}"/>
+
+            <TextBox x:Name="tb_ty" 
+                     Grid.Row="3"
+                     Margin="15"
+                     Background="{DynamicResource TextBlock}"/>
+
+            <Button x:Name="btn_one" 
+                    Content="Сохранить" 
+                    Grid.Row="4" 
+                    Margin=" 20 "
+                    Foreground="{DynamicResource Text}"
+                    Background="{DynamicResource Button}" Click="btn_one_Click"/>
+            
+            <Button x:Name="btn_ty"
+                    Foreground="{DynamicResource Text}"
+                    Content="Сменить дизайн"
+                    Grid.Row="5" 
+                    Margin=" 20 " 
+                    Background="{DynamicResource Button}" Click="btn_ty_Click"/>
+        </Grid>
+    </Grid>
+</Window>
