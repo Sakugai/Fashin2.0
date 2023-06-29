@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Найкраще мисце/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Найкраще мисце.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Найкраще мисце.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Найкраще мисце/1.0.0": {
+      "type": "project",
+      "path": "../Найкраще мисце/Найкраще мисце.csproj",
+      "msbuildProject": "../Найкраще мисце/Найкраще мисце.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Найкраще мисце >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\annak\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\annak\\source\\repos\\Найкраще мисце\\CustomlLib\\CustomlLib.csproj",
+      "projectName": "CustomlLib",
+      "projectPath": "C:\\Users\\annak\\source\\repos\\Найкраще мисце\\CustomlLib\\CustomlLib.csproj",
+      "packagesPath": "C:\\Users\\annak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\annak\\source\\repos\\Найкраще мисце\\CustomlLib\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\annak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\annak\\source\\repos\\Найкраще мисце\\Найкраще мисце\\Найкраще мисце.csproj": {
+              "projectPath": "C:\\Users\\annak\\source\\repos\\Найкраще мисце\\Найкраще мисце\\Найкраще мисце.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

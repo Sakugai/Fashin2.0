@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using CustomLib;
 namespace Найкраще_мисце
 {
     /// <summary>
@@ -29,12 +29,12 @@ namespace Найкраще_мисце
 
         private void btn_one_Click(object sender, RoutedEventArgs e)
         {
-            App.Fashins = "Fashin";
+            Class1.Fashins = "Fashin";
         }
 
         private void btn_ty_Click(object sender, RoutedEventArgs e)
         {
-            App.Fashins = "Fashin2";
+            Class1.Fashins = "Fashin2";
         }
 
     }

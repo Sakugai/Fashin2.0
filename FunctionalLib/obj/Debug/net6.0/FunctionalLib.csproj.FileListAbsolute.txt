@@ -1,0 +1,28 @@
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\FunctionalLib.deps.json
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\FunctionalLib.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\FunctionalLib.pdb
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\PresentationFramework.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\Найкраще мисце.exe
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Xaml.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\PresentationCore.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\UIAutomationProvider.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\UIAutomationTypes.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\ReachFramework.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Printing.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\Accessibility.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Deployment.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Windows.Input.Manipulations.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\Найкраще мисце.pdb
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\bin\Debug\net6.0\Найкраще мисце.exe.config
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.AssemblyInfo.cs
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.csproj.CopyComplete
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\refint\FunctionalLib.dll
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\FunctionalLib.pdb
+C:\Users\annak\source\repos\Найкраще мисце\FunctionalLib\obj\Debug\net6.0\ref\FunctionalLib.dll

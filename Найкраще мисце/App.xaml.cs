@@ -14,33 +14,6 @@ namespace Найкраще_мисце
     /// </summary>
     public partial class App : Application
     {
-        private static string fashin;
         
-        public static string Fashins
-        {
-            get { return fashin; }
-            set { 
-                fashin = value;
-                var dict = new ResourceDictionary { Source = new Uri($"/Resourse/{value}.xaml", UriKind.Relative) };
-
-                Current.Resources.MergedDictionaries.RemoveAt(0);
-                Current.Resources.MergedDictionaries.Insert(0, dict);
-
-                var desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-                File.WriteAllText($"{desktop}\\theme.txt", value);
-
-            }
-        }
-        public App()
-        {
-            InitializeComponent();
-
-            var desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            if(File.Exists($"{desktop}\\theme.txt"))
-            {
-                Fashins = File.ReadAllText($"{desktop}\\theme.txt");
-            
-            }
-        }
     }
 }
